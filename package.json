@@ -1,6 +1,6 @@
 {
   "name": "node-red-contrib-meta",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Provide a block to gather meta data + opengraph from a URL",
   "main": "index.js",
   "scripts": {
